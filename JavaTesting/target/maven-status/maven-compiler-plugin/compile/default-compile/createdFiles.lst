@@ -1,0 +1,5 @@
+com/university/email/controller/EmailController.class
+com/university/email/EmailApiApplication.class
+com/university/email/service/EmailService.class
+com/university/email/model/EmailRequest.class
+com/university/email/service/IEmailService.class

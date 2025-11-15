@@ -1,0 +1,3 @@
+com/university/email/controller/EmailControllerTest.class
+com/university/email/model/EmailRequestTest.class
+com/university/email/service/EmailServiceTest.class
